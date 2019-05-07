@@ -1,0 +1,6 @@
+[submodule "Python"]
+	path = Python
+	url = https://github.com/goodcan/LeetCode-Python.git
+[submodule "Golang"]
+	path = Golang
+	url = https://github.com/goodcan/LeetCode-Golang.git
